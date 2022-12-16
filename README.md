@@ -23,4 +23,4 @@ https://docs.openq.dev/contest-contracts/prepare-contest-for-claim
 Existing projects cannot be submitted; however, you are free to start working on them as soon as the hackathon begins.
 
 
-No work should be done on your project before the hackathon starts. This applies to programming, asset creation, etc. Each hack entry will be judged solely on the quality of work done during the hackathon. If a project or team is porting or continuing an existing project, you may enter but not be eligible for the price
+No work should be done on your project before the hackathon starts. This applies to programming, asset creation, etc. Each hack entry will be judged solely on the quality of work done during the hackathon. If a project or team is porting or continuing an existing project, you may enter but not be eligible for the price.
