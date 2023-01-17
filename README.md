@@ -1,4 +1,4 @@
-## 🌳 Polygon Hackathon
+## 🌳 Polygon Hackathon Details 2
 
 This repository is an informative directory and tool to coordinate the ETHDenver hackathon that will be paid powered by OpenQ.
 
